@@ -1,4 +1,4 @@
-# 📝 React Todo List App
+# 📝  Todo List 
 
 A simple and interactive Todo List application built using **React**.  
 This project demonstrates core React concepts such as **state management, component-based architecture, and immutable updates**.
